@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RatNumTest1",
+            "request": "launch",
+            "mainClass": "RatNumTest1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Farenheit",
+            "request": "launch",
+            "mainClass": "Farenheit"
+        }
+    ]
+}
